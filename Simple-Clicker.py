@@ -4,7 +4,7 @@ import random
 pygame.init()
 clock = pygame.time.Clock()
 window = pygame.display.set_mode((800,600))
-pygame.display.set_caption('Stupid Clicker')
+pygame.display.set_caption('Simple Clicker')
 
 font = pygame.font.SysFont(None, 32)
 bigfont = pygame.font.SysFont(None, 128)
