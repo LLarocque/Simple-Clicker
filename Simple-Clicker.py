@@ -11,7 +11,7 @@ bigfont = pygame.font.SysFont(None, 128)
 
 clicks=0
 masternum=0
-clickchance=10
+clickchance=1
 
 running = True
 while (running):
